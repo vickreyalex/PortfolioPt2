@@ -4,8 +4,8 @@ const items = [
     {
         id: 1,
         title: 'Music for 3D Game Project. Alex Vickrey. Spring 2020. IMD363 Final.',
-        image_link: 'https://images.unsplash.com/photo-1496065187959-7f07b8353c55?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80',
-        desc: 'This assignment was a group project in which I was tasked with creating two songs for a game we were making in my group - a title screen and an overworld theme. We were making this game over the course of the quarter and had a very limited time to work with, so it was a very lo-fi barebones game, much like that of a Game Jam. The songs I made were fully scored using FLStudio and played in-game. I believe this was a significant piece of my university work because it gave me the opportunity to use my musical abilities in a tech-related environment. While it’s not my primary focus with regards to pursuing a job in the future, I’ve grown up writing and playing music and I think having that mentioned in my portfolio, even if brief, is important to my identity.'
+        image_link: 'https://imgur.com/a8DPU7A',
+        desc: 'This assignment was a group project in which I was tasked with creating two songs for a game we were making in my group - a title screen and an overworld theme. We were making this game over the course of the quarter and had a very limited time to work with, so it was a very lo-fi barebones game, much like that of a Game Jam. The songs I made were fully scored using FLStudio and played in-game. I believe this was a significant piece of my university work because it gave me the opportunity to use my musical abilities in a tech-related environment. While it’s not my primary focus with regards to pursuing a job in the future, I’ve grown up writing and playing music and I think having that mentioned in my portfolio, even if brief, is important to my identity. You can listen to one song by copy pasting this link, please bear with me as my portfolio is under construction: https://youtu.be/tCO-f60GesQ'
     },
     {
         id: 2,
