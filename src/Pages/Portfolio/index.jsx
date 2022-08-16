@@ -3,6 +3,7 @@ import React from 'react';
 const items = [
     {
         id: 1,
+        title: 'Music for 3D Game Project. Spring 2020. IMD363 Final.',
         image_link: 'https://images.unsplash.com/photo-1496065187959-7f07b8353c55?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80',
         desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis sapiente, molestiae minus iure debitis quaerat assumenda deserunt, dignissimos deleniti tenetur quas eius, culpa dolores. Autem itaque soluta reiciendis laboriosam? Dolores sed fuga facilis dolor deleniti accusamus impedit libero accusantium soluta, eaque quo, eos dolorum inventore. Necessitatibus voluptatum tenetur obcaecati amet.'
     },
