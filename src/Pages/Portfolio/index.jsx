@@ -4,7 +4,7 @@ const items = [
     {
         id: 1,
         title: 'Music for 3D Game Project. Alex Vickrey. Spring 2020. IMD363 Final.',
-        image_link: 'https://imgur.com/a8DPU7A',
+        image_link: 'https://cdn.discordapp.com/attachments/702312103746470011/711428643863396372/a343095a97519d4f301bcc212fc20112.png',
         desc: 'This assignment was a group project in which I was tasked with creating two songs for a game we were making in my group - a title screen and an overworld theme. We were making this game over the course of the quarter and had a very limited time to work with, so it was a very lo-fi barebones game, much like that of a Game Jam. The songs I made were fully scored using FLStudio and played in-game. I believe this was a significant piece of my university work because it gave me the opportunity to use my musical abilities in a tech-related environment. While it’s not my primary focus with regards to pursuing a job in the future, I’ve grown up writing and playing music and I think having that mentioned in my portfolio, even if brief, is important to my identity. You can listen to one song by copy pasting this link, please bear with me as my portfolio is under construction: https://youtu.be/tCO-f60GesQ'
     },
     {
