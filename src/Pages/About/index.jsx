@@ -30,6 +30,12 @@ const items = [
         title: 'Title 05',
         image_link: 'https://images.unsplash.com/photo-1657299170237-2d4cd59b5156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80',
         desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis sapiente, molestiae minus iure debitis quaerat assumenda deserunt, dignissimos deleniti tenetur quas eius, culpa dolores. Sed fuga facilis dolor deleniti accusamus impedit libero accusantium soluta, eaque quo, eos dolorum inventore. Necessitatibus voluptatum tenetur obcaecati amet.'
+    },
+    {
+        id: 6,
+        title: 'Title 06',
+        image_link: 'https://images.unsplash.com/photo-1657299170237-2d4cd59b5156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80',
+        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis sapiente, molestiae minus iure debitis quaerat assumenda deserunt, dignissimos deleniti tenetur quas eius, culpa dolores. Sed fuga facilis dolor deleniti accusamus impedit libero accusantium soluta, eaque quo, eos dolorum inventore. Necessitatibus voluptatum tenetur obcaecati amet.'
     }
 ]
 
